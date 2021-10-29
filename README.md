@@ -27,9 +27,7 @@ Out of the 14 features given in the datasets 07 are Continuous and 07 (including
 * **BI Tool :** Tableau Desktop 2021.2
 
 # 🏽‍ Some Exciting Glimpse of the Visuals:
-<p align="center">
-  <img width="1437" height="850" src="https://user-images.githubusercontent.com/84115928/139469628-9b5e71b6-ffff-4448-a00e-e117a4776c4a.gif">
-</p>
+![Glimpse 1](https://user-images.githubusercontent.com/84115928/139469628-9b5e71b6-ffff-4448-a00e-e117a4776c4a.gif)
 
 For more details, please go Tableau Dashboard link given below -
 
